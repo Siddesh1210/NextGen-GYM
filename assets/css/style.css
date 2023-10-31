@@ -7908,3 +7908,19 @@ del {
 }
 
 /*# sourceMappingURL=style.css.map */
+
+
+/* gallery */
+.gym-images:hover
+{
+    transform: scale(1.1);
+    transition: 1s ease-in-out;
+    cursor: pointer;
+    filter: opacity(1);
+
+
+}
+.gym-images{
+    filter: opacity(0.8);
+}
+/* gallery */
