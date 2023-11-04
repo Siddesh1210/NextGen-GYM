@@ -7934,6 +7934,13 @@ del {
         width:100%;
         height:100%;
     }
+
+    .Adjusdgement
+    {
+        width:100vw;
+        height:18vh;
+        background-color: black;
+    }
 }
 
 @media only screen and (max-width:766px)
@@ -7943,4 +7950,12 @@ del {
         width:100%;
         height:75vh;
     }
+
+    .Adjusdgement
+    {
+        width:100vw;
+        height:15vh;
+        background-color: black;
+    }
 }
+
