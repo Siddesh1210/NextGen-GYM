@@ -7939,7 +7939,7 @@ del {
     {
         width:100vw;
         height:18vh;
-        background-color: black;
+        background:linear-gradient(to bottom,red,rgb(111, 19, 19),rgb(21, 1, 1));
     }
 }
 
@@ -7955,7 +7955,7 @@ del {
     {
         width:100vw;
         height:15vh;
-        background-color: black;
+        background:linear-gradient(to bottom,red,rgb(111, 19, 19),rgb(21, 1, 1));
     }
 }
 
