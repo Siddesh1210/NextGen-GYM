@@ -7951,6 +7951,17 @@ del {
     {
         font-size: 50px;
     }
+
+    .readMore-btn
+    {
+        width:50px;
+        padding:10px 20px;
+        border:1px solid white;
+        color:white;
+        background-color: black;
+        text-transform: uppercase;
+        font-size: 20px;
+    }
 }
 
 @media only screen and (max-width:766px)
@@ -7976,6 +7987,17 @@ del {
     .step-h2
     {
         font-size: 30px;
+    }
+
+    .readMore-btn
+    {
+        width:50px;
+        padding:10px 20px;
+        border:1px solid white;
+        color:white;
+        background-color: black;
+        text-transform: uppercase;
+        font-size: 20px;
     }
 }
 
