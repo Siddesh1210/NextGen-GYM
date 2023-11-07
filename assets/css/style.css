@@ -8039,3 +8039,8 @@ del {
     transform: scale(0.9);
     transition: 1s ease-in-out;
 }
+
+.workout-img img:hover{
+    transform: scale(0.95);
+    transition: 0.5s ease-in-out;
+}
