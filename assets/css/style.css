@@ -8101,3 +8101,23 @@ del {
     transform: scale(0.95);
 }
 
+.prev-next-step
+{
+    width:250px;
+    text-align: center;
+    padding:10px 20px;
+    border:1px solid white;
+    background-color: rgb(2, 1, 1);
+    font-size: 25px;
+    color:white;
+    cursor:pointer;
+}
+
+.prev-next-step:hover
+{
+    background-color: red;
+    color:white;
+    transform: scale(0.95);
+    transition: 0.5s ease-in-out;
+}
+
